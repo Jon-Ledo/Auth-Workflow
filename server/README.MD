@@ -1,7 +1,3 @@
-#### Check for Existing Token
-
-#### Refactor Auth Middleware - Access , Refresh Token
-
 #### Logout
 
 #### Forgot/Reset Password Functionality
