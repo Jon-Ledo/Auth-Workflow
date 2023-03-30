@@ -1,7 +1,3 @@
-#### Setup Token in Login Controller
-
-#### Send Multiple Cookies
-
 #### Check for Existing Token
 
 #### Refactor Auth Middleware - Access , Refresh Token
