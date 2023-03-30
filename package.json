@@ -1,0 +1,24 @@
+{
+  "name": "auth-workflow",
+  "version": "1.0.0",
+  "description": "example to showcase how authentication and email setup would look like with a front and backend",
+  "main": "server/app.js",
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  },
+  "scripts": {
+    "start": "cd server && npm run dev",
+    "develop": "concurrently \"cd server && npm run watch\" \"cd front-end && npm run start\"",
+    "install": "cd server && npm i && cd ../front-end && npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-Ledo/Auth-Workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jon-Ledo/Auth-Workflow/issues"
+  },
+  "homepage": "https://github.com/Jon-Ledo/Auth-Workflow#readme"
+}
