@@ -1,5 +1,3 @@
-#### Logout
-
 #### Forgot/Reset Password Functionality
 
 - User Model
