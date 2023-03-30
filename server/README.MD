@@ -1,17 +1,3 @@
-#### Send Verification Link
-
-- [] refactor sendEmail
-- [] setup sendVerificationEmail.js
-- [] pass arguments
-
-#### Token Model
-
-- [] create Token.js in models
-- [] refreshToken,ip,userAgent - all String and required
-- [] isValid - Boolean, default:true
-- [] ref user
-- [] timestamps true
-
 #### Setup Token in Login Controller
 
 #### Send Multiple Cookies
